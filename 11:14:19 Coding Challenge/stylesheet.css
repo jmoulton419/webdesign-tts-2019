@@ -1,0 +1,40 @@
+body{
+	font-family: 'Vesper Libre', serif;
+}
+
+h1 {
+	font-size: 42px;
+	color: #28472e;
+
+}
+
+nav{
+	background-color: #28472e;
+	position: relative;
+	}
+
+ul {
+
+	font-size: 12px;
+	list-style: none;
+	padding-left: 0px;
+	margin: 5px;
+	color: white; /*#fff */
+	text-align: center;
+	padding: 10px 0; 
+}
+
+li {
+	color: white;
+	display: inline-block;
+
+}
+
+#navbar li a:hover {
+	hover: yellow;
+}
+
+
+#navbar li a:active {
+	hover: white;
+}
